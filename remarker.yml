@@ -1,0 +1,11 @@
+port: 8081
+dest: build
+source: slides.md
+title: 'North Bay Pyton recap'
+# assets: ['assets']
+# css: ''
+# cssFiles: []
+# script: ''
+# scriptFiles: []
+# remarkConfig: {}
+# remarkPath: moduleDir + '/vendor/remark.js'
